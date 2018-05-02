@@ -1,2 +1,2 @@
 # jenkins-pipeline-js-sample
-Demo purpose for sample change ru
+Demo purpose for sample change ru fg
