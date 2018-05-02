@@ -1,2 +1,2 @@
 # jenkins-pipeline-js-sample
-Demo purpose
+Demo purpose for sample
